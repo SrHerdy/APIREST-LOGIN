@@ -1,0 +1,2 @@
+Projeto com: API REST + NodeJS + Express + Mongo + NodeMailer + Insomnia + Robo 3T
+Estrutura de cadastro e autenticação com recuperação de senha usando NodeMailer, aplicação CRUD e relacionamentos com MongoDB
